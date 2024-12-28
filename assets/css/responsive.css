@@ -1,0 +1,31 @@
+@media (max-width:984px){
+    #heading h2 {
+        font-family: var(--third-family);
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 120%;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: #000;
+        padding: 89px 0 42px 0;
+    }
+    #img .row .image1{
+       width: 250px;
+    }
+    #img .row .image{
+        width: 400px;
+     }
+     #contains .row {
+        margin-top: 58px;
+    }
+    #contains .row p {
+        font-size: 16px;
+    }
+    #scrollpointer .bar {
+        position: fixed;
+        bottom: -5px;
+        right: 26px;
+        color: #fff;
+        font-size: 20px;
+    }
+}
